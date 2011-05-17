@@ -1,0 +1,29 @@
+ru:
+  add_another_service_to_sign_in_with: Добавить другой сервис для входа
+  attach_error: 'Этот %{kind} аккаунт уже подключен к другому пользоватерю.'
+  devise:
+    omniauth_callbacks:
+      success: 'Успешно авторизовано с помощью %{kind} аккаунта.'
+      failure: 'Невозможно авторизоваться с помощью %{kind} аккаунта по причине "%{reason}".'
+  edit_social_method: Редактировать Провайдер
+  edit_social_method_warning: Вы должны перезагрузить Spree в случае если вы поменяли ключь и/или секретный ключ чтобы изменения вступили в силу
+  linked_accounts: Связные аккаунты
+  new_social_method: Новый провайдер
+  new_social_method_warning: Вы должны перезагрузить Spree чтобы изменения вступили в силу
+  one_more_step: 'Пройдите ище один шаг чтобы завершить вашу регистрацию через %{kind} аккаунт'
+  reason_user_was_not_valid: пользователь не действителен
+  remove_authentication_option_confirmation: 'Вы действительно хотите удалить этот способ аутентификации?'
+  sign_in_through_one_of_these_services: Войти в магазин с помощью
+  sign_in_to_associate_with_existing_email: 'В системе уже есть аккаунт с таким почтовым адресом. Пожалуйста, войдите в магазин чтобы свазять сервис с аккаунтом.'
+  sign_in_with_provider: 'Войти в магазин с помощью %{provider}'
+  social_api_key: Ключ API
+  social_api_secret: Секретный код API
+  social_enable_provider: Активировать сервис аутентификации
+  social_link: Пожалуйста предоставьте свой электронный почтовый адрес чтобы продолжить
+  social_methods: 'Аутентификация через соц. сервисы'
+  social_provider: Провайдер
+  social_servers: 'Аутентификация через соц. сервисы'
+  social_servers_description: Настройки аутентификации через социальные сети
+  successfully_linked_your_accounts: Связь с вашим аккаунтом прошла успешно
+  successfully_deleted_authentication_source: Способ утентификации успешно удален
+  you_have_signed_in_with_these_services: Вы можете войти в магазин с помощью соц. сервисов
